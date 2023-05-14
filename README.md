@@ -57,6 +57,7 @@
 |2013/04|ケーブルテレビ向けL字放送システム開発|PM|Win/VB/SQLServer|
 |2016/12|ラジオ局向け割り込み放送システム|PM|CentOS/Spring|
 |2017/04|医療IoT・多職種連携システム|PM|CentOS/Spring/Android/JAVA|
+|2018/11|株式会社ＥｖｏＬｉＮＱ設立|||
 |2019/04|交通事業者向け電車予約管理システム|PM|CentOS/PHP/Laravel/MySQL|
 |2020/12|官公庁向け電子ポイント管理システム|PM|CentOS/PHP/Laravel/MariaDB|
 |2021/04|生産工場向けIoTセンサー・管理システム|PM|M5/C/PHP/MySQL/AzureIoT|
