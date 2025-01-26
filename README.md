@@ -65,6 +65,8 @@
 |2021/12|生産工場向けIoT生産管理システム|PM|CentOS/PHP/Python/MySQL/AzureIoT|
 |2022/04|自治体向け検満管理システム|PM|Kintone|
 |2022/12|被災地情報共有システム開発|PM|Amazon Linux/PHP/Larvel/MariaDB|
+|2024/09|超低遅延映像共有システム LiveLiNQ Broadcaster|PM|Java/Javascript|
+|2025/01|PC画面CCTV化ソフトウェア LiveLiNQ Evidence|PM|.NET|
 
 ## ワークショップ運営など
 | 時期 | 件名 | 技術 |
